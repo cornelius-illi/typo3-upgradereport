@@ -42,7 +42,7 @@ abstract class Tx_Smoothmigration_Migrations_AbstractMigrationDefinition impleme
 	 * Constructor
 	 */
 	public function __construct() {
-		$this->objectManagager = t3lib_div::makeInstance('Tx_Extbase_Object_Manager');
+		$this->objectManagager = t3lib_div::makeInstance('Tx_Extbase_Object_ObjectManager');
 	}
 
 	/**
