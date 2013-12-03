@@ -1,6 +1,6 @@
 # TYPO3 Smooth Migration Extension
 
-This is a fork of the **[Smooth Migration Extension](https://github.com/nxpthx/typo3-upgradereport) that will support TYPO3 Version 6.0 and 6.1. Even for projects with newer TYPO3 Version a migration report is necesary or nice to have.
+This is a fork of the [Smooth Migration Extension](https://github.com/nxpthx/typo3-upgradereport) with support for TYPO3 versions 6.0 and 6.1. Even for projects with a newer TYPO3 Version a migration report is necessary or nice to have.
 
 ## Extension Usage
 
